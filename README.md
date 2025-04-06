@@ -4,6 +4,6 @@ I'm an enby dev/sysadmin kinda person (trying to avoid the buzzword 🤐). You c
 
 To avoid confusion: This account was recently renamed from [@T0astBread](https://github.com/T0astBread). It's "micaplush" now because every other good variation of "mica" was taken and plushies are cute.
 
-![Sanei Boeki plushie of Pearl from Splatoon](porl.png)
+<p align="center"><img alt="Sanei Boeki plushie of Pearl from Splatoon" src="./porl.png"></p>
 
-💛🤍💜🖤
+<p align="center">💛🤍💜🖤</p>
